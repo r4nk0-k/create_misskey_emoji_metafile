@@ -1,0 +1,6 @@
+host: "your.misskey.domain"
+emojiParameter:
+  license: ""
+  isSensitive: false
+  localonly: false
+  category: ""
